@@ -1,4 +1,4 @@
-# P0G
+# POG
 The datasets of the paper POG.
 You can find the data here: https://drive.google.com/drive/folders/1xFdx5xuNXHGsUVG2VIohFTXf9S7G5veq
 
